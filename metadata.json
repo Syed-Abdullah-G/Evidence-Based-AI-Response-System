@@ -1,0 +1,6 @@
+{
+  "name": "Fact Trace",
+  "description": "Evidence-grounded student record retrieval and citation verification application for college department staff and alumni success meet dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
